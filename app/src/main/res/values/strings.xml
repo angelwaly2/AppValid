@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtistasCanciones</string>
+    <string-array name="countries">
+        <item>argentina</item>
+        <item>brazil</item>
+        <item>canada</item>
+        <item>colombia</item>
+        <item>spain</item>
+        <item>peru</item>
+    </string-array>
+</resources>
